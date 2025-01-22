@@ -1,0 +1,3 @@
+# python training git ignore 
+
+__pycache__/
