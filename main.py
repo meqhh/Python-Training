@@ -1,5 +1,5 @@
 from function.greet import GreetClass
+from function.math import Math
 
-obj = GreetClass()
-result = obj.greet("Fazri")
-print(result)
+hasil = Math.add(5, 5, 5)
+print(hasil)
