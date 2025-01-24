@@ -1,3 +1,3 @@
 class GreetClass:
-    def greet(self, name):
+    def greet(name):
         return(f'Hello {name}')
