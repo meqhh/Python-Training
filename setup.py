@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="my_library",
-    version="1.0",
+    name="kanjutmath",
+    version="0.0.1",
     author="meqh",
     author_email="fazrimyazid@gmail.com",
     description="Package dari programmer pemula",
