@@ -1,4 +1,3 @@
-from . import greet
 from . import math
 
-__all__ = ['math', 'greet']
+__all__ = ['math']
