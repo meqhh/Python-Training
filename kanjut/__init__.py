@@ -1,4 +1,4 @@
-from . import math
 from . import greet
+from . import math
 
 __all__ = ['math', 'greet']
