@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="kanjutmath",
+    name="kanjutpkg",
     version="0.0.1",
     author="meqh",
     author_email="fazrimyazid@gmail.com",
