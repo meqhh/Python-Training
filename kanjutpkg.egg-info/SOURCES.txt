@@ -1,0 +1,9 @@
+LICENCE
+README.md
+setup.py
+kanjutpkg/__init__.py
+kanjutpkg/math.py
+kanjutpkg.egg-info/PKG-INFO
+kanjutpkg.egg-info/SOURCES.txt
+kanjutpkg.egg-info/dependency_links.txt
+kanjutpkg.egg-info/top_level.txt
