@@ -103,7 +103,7 @@ def pembagian(*args):
 
     return result
 
-def ganjilGenap(*args):
+def ganjilgenap(*args):
     """
     ganjil genap dengan argumen parameter yang bisa lebih dari 2.
     jadi tolong isi parameternya harus integer atau float ya
@@ -146,10 +146,10 @@ def pangkat(*args):
             return 'Harus Float atau Integer ya dek'
 
     if len(args) == 2:
-        pangkat = args[1]
+        panjang = args[1]
         hasil = 1
 
-        for i in range(pangkat):
+        for i in range(panjang):
             hasil *= args[0]
         return hasil
     else:
