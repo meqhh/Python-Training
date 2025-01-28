@@ -127,7 +127,6 @@ def ganjilgenap(*args):
 
     for j in hasil:
         print(j)
-        return j
 
 def pangkat(*args):
     """
