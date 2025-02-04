@@ -5,7 +5,7 @@
 <div>
     <b>Matematika Basic python tapi bahasa indo</b>
     <p>Berikut berapa penggunaan yang ada untuk versi 0.0.1 (maaf cuman segini dulu, ga sabar coba publish hehe)</p>
-    <p>from kanjutmath import math</p>
+    <p>from kanjutpkg import math</p>
     <ol type="1">
         <li>
             <b>penjumlahan()</b>
